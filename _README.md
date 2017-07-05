@@ -29,4 +29,3 @@ Based on Elephant SpinOut by William Keister.
 + termfuncs.cpp : terminal control functions provided by Mark Sheldon of
 Tufts University
 + termfuncs.h- header file for termfuncs.cpp
-
