@@ -1,0 +1,8 @@
+happy_puzzle_game
+*.out
+/.vscode
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+Makefile
+W
